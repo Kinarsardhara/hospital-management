@@ -20,9 +20,9 @@ This is a comprehensive web application designed to streamline hospital operatio
 - **Database:** MongoDB
 
 ## 🌐 Live Demo
-Check out the live application here:
-[Hospital Management System Admin](https://zee-care-hospital-admin.netlify.app)
-[Hospital Management System User](https://zee-care-hospital-user.netlify.app)  
+Check out the live application here:  
+[Hospital Management System Admin](https://zee-care-hospital-admin.netlify.app)  
+[Hospital Management System User](https://zee-care-hospital-user.netlify.app)
 
 ### User Panel
 - **Email:** usera@gmail.com
